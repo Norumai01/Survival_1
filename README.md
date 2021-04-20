@@ -1,3 +1,3 @@
 # Survival Game Project
-Created by Johnny Nguyen
-\nFor ECGR 2104 -- C++
+Created by Johnny Nguyen\
+For ECGR 2104 -- C++
