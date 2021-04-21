@@ -97,9 +97,6 @@ string Forest::visit(Player& p){
     else {
         description = "You forage for berries and went hunting but find nothing.";
     } 
-    
-    
-    
     return description;
 }
 
